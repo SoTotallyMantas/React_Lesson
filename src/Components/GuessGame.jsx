@@ -12,7 +12,7 @@ function getRandomInt(min, max) {
 
 export default function () {
     const [Guess, setGuess] = useState(getRandomInt(1,100));
-    const [GuessCount, setGuessCount] = useState(0);
+    const [GuessCount, setGuessCount] = useState(1);
     const [Feedback, setFeedback] = useState("");
     const [GuessFeedback, setGuessFeedback] = useState("");
     const [GameStatus, setGameStatus] = useState("Playing");

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\cart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\productitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\productitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,28 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductItem.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\ProductItem.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\ProductItem.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\ProductItem.jsx",
+              "RelativeToolTip": "src\\Components\\ProductItem.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-20T15:17:01.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductList.jsx",
               "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\ProductList.jsx",
               "RelativeDocumentMoniker": "src\\Components\\ProductList.jsx",
               "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\ProductList.jsx",
               "RelativeToolTip": "src\\Components\\ProductList.jsx",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-13T14:50:52.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T14:50:52.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SecondTaskPage.jsx",
               "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\SecondTaskPage.jsx",
               "RelativeDocumentMoniker": "src\\SecondTaskPage.jsx",
               "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\SecondTaskPage.jsx",
               "RelativeToolTip": "src\\SecondTaskPage.jsx",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-13T14:44:58.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T14:44:58.324Z"
             },
             {
               "$type": "Document",
@@ -62,7 +76,7 @@
               "RelativeDocumentMoniker": "src\\Components\\Cart.jsx",
               "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\Cart.jsx",
               "RelativeToolTip": "src\\Components\\Cart.jsx",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-13T14:29:06.223Z",
               "EditorCaption": ""
