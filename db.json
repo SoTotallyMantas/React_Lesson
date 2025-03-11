@@ -23,34 +23,39 @@
   ],
   "favorites": [
     {
-      "id": 1741641327942,
-      "userId": 4,
-      "recipeId": "3"
-    },
-    {
-      "id": 1741641335687,
-      "userId": 4,
-      "recipeId": "4"
-    },
-    {
-      "id": 1741641339769,
-      "userId": 4,
-      "recipeId": "5"
-    },
-    {
-      "id": 1741648394213,
+      "id": 1741727048552,
       "userId": 2,
-      "recipeId": "2"
+      "recipeId": 2
     },
     {
-      "id": 1741648396448,
+      "id": 1741727060479,
       "userId": 2,
-      "recipeId": "1"
+      "recipeId": 50
     },
     {
-      "id": 1741648409373,
+      "id": 1741727061136,
       "userId": 2,
-      "recipeId": "50"
+      "recipeId": 49
+    },
+    {
+      "id": 1741727063291,
+      "userId": 2,
+      "recipeId": 20
+    },
+    {
+      "id": 1741727064254,
+      "userId": 2,
+      "recipeId": 17
+    },
+    {
+      "id": 1741727078926,
+      "userId": 2,
+      "recipeId": 3
+    },
+    {
+      "id": 1741727079663,
+      "userId": 2,
+      "recipeId": 1
     }
   ]
 }

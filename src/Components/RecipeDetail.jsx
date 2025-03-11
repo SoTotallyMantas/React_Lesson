@@ -24,11 +24,11 @@ export const RecipeDetail = () => {
                 console.log("Fetched Data", data);
                 setRecipes(data);
             });
-    }, [])
+    }, [recipeId])
     useEffect(() => {
         if (!Favorites) return;
-
-        const favorite = Favorites.find((fav) => fav.recipeId === recipeId);
+        const parsedRecipeId = Number(recipeId);
+        const favorite = Favorites.find((fav) => fav.recipeId === parsedRecipeId);
         setFavorited(!!favorite); 
     }, [Favorites, recipeId]); 
     const ToggleFavorite = async () => {

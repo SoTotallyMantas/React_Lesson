@@ -17,6 +17,7 @@ export const AuthProvider = ({ children }) => {
             if (!user?.id) return;
             try {
                 const data = await FavoriteGet(user.id);
+                    console.log(data);
                 setFavorites(data);
             } catch (error) {
                 console.error(error);
@@ -26,6 +27,7 @@ export const AuthProvider = ({ children }) => {
         
     }, [user])
     const updateFavorites = (newFavorites) => {
+        console.log(Favorites);
         setFavorites(newFavorites);
     };
     const login = async (username,password) => {
