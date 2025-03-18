@@ -22,3 +22,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+*.db
+*.opendb
+*.log
+
+# GitHub Copilot-related indices (not needed in Git)
+CopilotIndices/
+FileContentIndex/
+# Build & Debugging files
+bin/
+obj/
+out/
