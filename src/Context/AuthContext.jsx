@@ -17,7 +17,7 @@ export const AuthProvider = ({ children }) => {
             if (!user?.id) return;
             try {
                 const data = await FavoriteGet(user.id);
-                    console.log(data);
+                    console.log(data,"DATA FETCH");
                 setFavorites(data);
             } catch (error) {
                 console.error(error);
@@ -26,9 +26,13 @@ export const AuthProvider = ({ children }) => {
         fetchFavorites();
         
     }, [user])
-    const updateFavorites = (newFavorites) => {
-        console.log(Favorites);
-        setFavorites(newFavorites);
+    const updateFavorites = async (userId) => {
+        try {
+            const updatedFavorites = await FavoriteGet(userId);
+            setFavorites([...updatedFavorites]);
+        } catch (error) {
+            console.error("Error Updating Favorites:", error);
+        }
     };
     const login = async (username,password) => {
         try {

@@ -38,16 +38,17 @@ export const RecipeCard = ({ id, recipe: initialRecipe }) => {
         setFavoriteApiCall(true);
 
         try {
+            
             if (!Favorited) {
                 await FavoritePost(user.id, recipeId);
-
+                
             }
             else {
                 await FavoriteDelete(user.id, recipeId);
+                
             }
 
-            const updatedFavorites = await FavoriteGet(user.id);
-            updateFavorites(updatedFavorites);
+            await updateFavorites(user.id);
         }
         catch (error) {
             console.error(error);

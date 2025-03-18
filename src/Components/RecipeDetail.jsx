@@ -12,7 +12,7 @@ import {useAuth } from '../Context/AuthContext.jsx'
 export const RecipeDetail = () => {
     let { recipeId } = useParams();
     const navigate = useNavigate();
-    const [recipe, setRecipes] = useState([]);
+    const [recipe, setRecipes] = useState({});
     const [Favorited, setFavorited] = useState(false);
     const { user, Favorites, updateFavorites } = useAuth();
     const [FavoriteApiCall, setFavoriteApiCall] = useState(false);
@@ -44,8 +44,7 @@ export const RecipeDetail = () => {
                 await FavoriteDelete(user.id, recipeId);
             }
 
-            const updatedFavorites = await FavoriteGet(user.id);
-            updateFavorites(updatedFavorites);
+            await updateFavorites(user.id);
         }
         catch (error) {
             console.error(error);
