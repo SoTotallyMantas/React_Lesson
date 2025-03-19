@@ -1,6 +1,7 @@
 import React, { use, useState } from 'react';
 import GuessForm from "./GuessForm";
 import Message from "./Message";
+import { FormGroup } from 'react-bootstrap';
 
 function getRandomInt(min, max) {
     const minCeiled = Math.ceil(min);
@@ -16,13 +17,14 @@ export default function () {
     const [Feedback, setFeedback] = useState("");
     const [GuessFeedback, setGuessFeedback] = useState("");
     const [GameStatus, setGameStatus] = useState("Playing");
+    const [AttemptedGuess, setAttemptedGuess] = useState([]);
 
     const ResetGame = () => {
         window.location.reload();
     }
     const TryGuess = (FormNumber) => {
-
-
+        const AttempedGuessNew = [...AttemptedGuess,FormNumber];
+        setAttemptedGuess(AttempedGuessNew);
         
         if (FormNumber == Guess) {
             setGuessCount(0);
@@ -52,7 +54,16 @@ export default function () {
                 </div>
                 <div>
                 <Message onfeedback={GuessFeedback} />
-            </div>
+                </div>
+                <div>
+
+                   {AttemptedGuess == 0 ? null : <p> Your Guess:</p>}
+                <ul>
+                    {AttemptedGuess.map(guess => <li>{guess}</li>)}
+                  
+                </ul>
+                
+                </div>
             </div>
             {GameStatus == "Playing" ? null : <button onClick={ResetGame}> Reset</button> }
         </div>
