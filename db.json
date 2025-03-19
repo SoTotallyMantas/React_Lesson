@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "test",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 3,
+      "username": "t",
+      "password": "t"
+    },
+    {
+      "id": 4,
+      "username": "5",
+      "password": "5"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1741727048552,
+      "userId": 2,
+      "recipeId": 2
+    },
+    {
+      "id": 1741727079663,
+      "userId": 2,
+      "recipeId": 1
+    },
+    {
+      "id": 1742316131286,
+      "userId": 2,
+      "recipeId": 50
+    },
+    {
+      "id": 1742316214539,
+      "userId": 2,
+      "recipeId": 49
+    },
+    {
+      "id": 1742316851116,
+      "userId": 2,
+      "recipeId": 17
+    },
+    {
+      "id": 1742317156954,
+      "userId": 2,
+      "recipeId": 3
+    }
+  ]
+}
