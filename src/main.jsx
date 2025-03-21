@@ -13,6 +13,7 @@ import Dashboard from './Pages/dashboard'
 import Recipe from './Pages/Recipe.jsx'
 import Favorites from './Pages/Favorites.jsx'
 import RecipeDetail from './Components/RecipeDetail.jsx'
+import TaskList from './Pages/TaskList.jsx'
 import {PaginationProvider, usePagination} from './Context/PaginationContext.jsx'
 
 const ProtectedRoute = ({ children }) => {
@@ -32,7 +33,7 @@ createRoot(document.getElementById('root')).render(
             <Navbar />
             <Routes>
                 <Route index element={<App />} />
-                <Route path='/FirstTask' element={<App />} />
+                <Route path='/FirstTask' element={<TaskList />} />
                 <Route path='/SecondTask' element={<SecondPage />} />
                    <Route path='/ThirdTask' element={<ThirdPage />} />
                    <Route path='/login' element={<Login />} />

@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\manta\\source\\repos\\React_Lesson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\searchbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\searchbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\userlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\usercard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\usercard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\pages\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\pages\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\pages\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\pages\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\taskitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\taskitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\recipelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\recipelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\src\\components\\recipecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:src\\components\\recipecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|c:\\users\\manta\\source\\repos\\react_lesson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC3C841-A1A4-428E-9FA5-31ABEB09A96D}|react_lesson.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +62,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-18T16:35:20.469Z",
+              "DocumentIndex": 4,
+              "Title": "UserCard.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\UserCard.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\UserCard.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\UserCard.jsx",
+              "RelativeToolTip": "src\\Components\\UserCard.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T14:56:49.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T14:57:15.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserList.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\UserList.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\UserList.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\UserList.jsx",
+              "RelativeToolTip": "src\\Components\\UserList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T18:17:36.154Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CHANGELOG.md",
-              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\CHANGELOG.md",
-              "RelativeDocumentMoniker": "CHANGELOG.md",
-              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\CHANGELOG.md",
-              "RelativeToolTip": "CHANGELOG.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-18T16:35:18.135Z",
+              "Title": "SearchBar.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\SearchBar.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\SearchBar.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\SearchBar.jsx",
+              "RelativeToolTip": "src\\Components\\SearchBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T14:56:50.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-21T22:00:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-21T21:56:14.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskItem.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\TaskItem.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\TaskItem.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\TaskItem.jsx",
+              "RelativeToolTip": "src\\Components\\TaskItem.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T18:09:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskList.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\TaskList.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\TaskList.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\TaskList.jsx",
+              "RelativeToolTip": "src\\Components\\TaskList.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T17:35:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T15:35:38.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecipeList.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\RecipeList.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\RecipeList.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\RecipeList.jsx",
+              "RelativeToolTip": "src\\Components\\RecipeList.jsx",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T15:01:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskList.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Pages\\TaskList.jsx",
+              "RelativeDocumentMoniker": "src\\Pages\\TaskList.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Pages\\TaskList.jsx",
+              "RelativeToolTip": "src\\Pages\\TaskList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T15:21:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeCard.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\RecipeCard.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\RecipeCard.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Components\\RecipeCard.jsx",
+              "RelativeToolTip": "src\\Components\\RecipeCard.jsx",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T15:15:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Pages\\App.jsx",
+              "RelativeDocumentMoniker": "src\\Pages\\App.jsx",
+              "ToolTip": "C:\\Users\\manta\\source\\repos\\React_Lesson\\src\\Pages\\App.jsx",
+              "RelativeToolTip": "src\\Pages\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T14:48:09.167Z",
               "EditorCaption": ""
             }
           ]
