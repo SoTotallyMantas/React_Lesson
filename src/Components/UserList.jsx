@@ -1,4 +1,4 @@
-import { useState,useEffect,useCallback,useMemo } from 'react'
+import React, { useState,useEffect,useCallback,useMemo } from 'react'
 import reactLogo from '../assets/react.svg'
 import viteLogo from '/vite.svg'
 import UserCard from '../Components/UserCard.jsx'
@@ -9,6 +9,7 @@ function UserList() {
     const [DisplayUsers, setDisplayUsers] = useState([]);
     const [Loading, setLoading] = useState(true);
     useEffect(() => {
+        setTimeout(100);
         fetch(`https://dummyjson.com/users?limit=100`)
             .then((res) => res.json())
             .then((data) => {
@@ -50,12 +51,12 @@ function UserList() {
         }
         setLoading(false);
         
-    }, [InitialUsers]);
+    }, [InitialUsers,DisplayUsers]);
 
     const searchBarProps = useMemo(() => ({
         onSearch: CallbackSearch,
         onClear: Clear
-    }), [CallbackSearch, Clear]);
+    }), [CallbackSearch]);
     
     const renderedUserCards = useMemo(() => {
         return DisplayUsers.map((user) => (
@@ -69,6 +70,9 @@ function UserList() {
             <main className="container p-5 text-center">
                 <SearchBar {...searchBarProps} />
                 <div className="row gx-5">
+                    {Loading ? ( 
+                        <p> Loading....</p>
+                    ) : null}
                     {!Loading && DisplayUsers.length > 0 ? (
                         renderedUserCards
                             ) : (
